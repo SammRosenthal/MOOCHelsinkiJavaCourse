@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9973720-c274-49a2-b123-4372487b80dd" name="Default Changelist" comment="">
+    <list default="true" id="0c94af65-ed5b-4ea7-90c2-b1e4f22f9b05" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondsOfTheYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondsOfTheYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Addition.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SecondsOfTheYear.java">
+        <entry file="file://$PROJECT_DIR$/src/Addition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SecondsOfTheYear.java" />
+        <option value="$PROJECT_DIR$/src/Addition.java" />
       </list>
     </option>
   </component>
@@ -50,27 +50,27 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-005.SecondsOfTheYear" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-006.Addition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-005.SecondsOfTheYear" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-006.Addition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557704052224" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557704141628" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -93,11 +93,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9973720-c274-49a2-b123-4372487b80dd" name="Default Changelist" comment="" />
-      <created>1557703899476</created>
+      <changelist id="0c94af65-ed5b-4ea7-90c2-b1e4f22f9b05" name="Default Changelist" comment="" />
+      <created>1557704069286</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557703899476</updated>
+      <updated>1557704069286</updated>
     </task>
     <servers />
   </component>
@@ -135,10 +135,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SecondsOfTheYear.java">
+    <entry file="file://$PROJECT_DIR$/src/Addition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
