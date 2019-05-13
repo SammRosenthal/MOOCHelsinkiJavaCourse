@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fc6e39a-bd5c-4756-92af-7385db8e348d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build_log.txt" afterDir="false" />
+    <list default="true" id="1ca429db-f068-483b-9887-326ba1c22fe6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/build_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/build_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfTheAges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfTheAges.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BiggerNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/SumOfTheAges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="255">
+              <caret line="17" column="118" selection-start-line="17" selection-start-column="118" selection-end-line="17" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -33,7 +36,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BiggerNumber.java" />
+        <option value="$PROJECT_DIR$/src/SumOfTheAges.java" />
       </list>
     </option>
   </component>
@@ -48,27 +51,27 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-011.BiggerNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-012.SumOfTheAges" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-011.BiggerNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-012.SumOfTheAges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557706033155" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557706432068" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -91,11 +94,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3fc6e39a-bd5c-4756-92af-7385db8e348d" name="Default Changelist" comment="" />
-      <created>1557705695159</created>
+      <changelist id="1ca429db-f068-483b-9887-326ba1c22fe6" name="Default Changelist" comment="" />
+      <created>1557706075961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557705695159</updated>
+      <updated>1557706075961</updated>
     </task>
     <servers />
   </component>
@@ -112,8 +115,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -124,19 +127,19 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="TMC Project List" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BiggerNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfTheAges.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="255">
+          <caret line="17" column="118" selection-start-line="17" selection-start-column="118" selection-end-line="17" selection-end-column="118" />
         </state>
       </provider>
     </entry>
