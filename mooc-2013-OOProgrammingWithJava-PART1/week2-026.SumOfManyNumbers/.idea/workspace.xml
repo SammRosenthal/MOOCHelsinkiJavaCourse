@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4605f19-5e22-4587-86d0-019ef56dde48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="764e7da9-db07-43a5-aa87-a3580605d3f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week2-025.SumOfThreeNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2-025.SumOfThreeNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfManyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfManyNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/SumOfManyNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="270">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -34,7 +34,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SumOfThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/SumOfManyNumbers.java" />
       </list>
     </option>
   </component>
@@ -53,11 +53,11 @@
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="week2-026.SumOfManyNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="week2-026.SumOfManyNumbers" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -69,7 +69,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557873385434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557873490573" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -92,17 +92,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4605f19-5e22-4587-86d0-019ef56dde48" name="Default Changelist" comment="" />
-      <created>1557857802237</created>
+      <changelist id="764e7da9-db07-43a5-aa87-a3580605d3f0" name="Default Changelist" comment="" />
+      <created>1557873407911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557857802237</updated>
+      <updated>1557873407911</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -134,10 +133,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfManyNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
