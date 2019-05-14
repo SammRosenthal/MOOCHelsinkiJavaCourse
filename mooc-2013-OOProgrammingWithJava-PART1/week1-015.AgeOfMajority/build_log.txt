@@ -75,12 +75,12 @@ Trying to override old definition of task http://www.netbeans.org/ns/j2se-projec
 init:
 
 -deps-jar-init:
-   [delete] Deleting: /Users/samrosenthal/Documents/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week1-014.PositiveValue/build/built-jar.properties
+   [delete] Deleting: /Users/samrosenthal/Documents/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week1-015.AgeOfMajority/build/built-jar.properties
 
 deps-jar:
 
 -warn-already-built-jar:
-[propertyfile] Updating property file: /Users/samrosenthal/Documents/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week1-014.PositiveValue/build/built-jar.properties
+[propertyfile] Updating property file: /Users/samrosenthal/Documents/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week1-015.AgeOfMajority/build/built-jar.properties
 
 -check-automatic-build:
 
@@ -97,6 +97,12 @@ deps-jar:
 -compile-depend:
 
 -do-compile:
+    [javac] Compiling 1 source file to /Users/samrosenthal/Documents/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week1-015.AgeOfMajority/build/classes
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 6
+    [javac] warning: [options] source value 6 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.6 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 4 warnings
 
 -post-compile:
 
