@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e718b2-1d07-4f39-a71a-33398f6aef3f" name="Default Changelist" comment="" />
+    <list default="true" id="c4f074d5-c432-44af-a44a-a7881349f6d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenOrOdd.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AgeOfMajority.java">
+        <entry file="file://$PROJECT_DIR$/src/EvenOrOdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="435">
+              <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -31,7 +35,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AgeOfMajority.java" />
+        <option value="$PROJECT_DIR$/src/EvenOrOdd.java" />
       </list>
     </option>
   </component>
@@ -45,28 +49,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-015.AgeOfMajority" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-016.EvenOrOdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1-015.AgeOfMajority" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-016.EvenOrOdd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557792190691" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557795149946" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -89,17 +93,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0e718b2-1d07-4f39-a71a-33398f6aef3f" name="Default Changelist" comment="" />
-      <created>1557792038991</created>
+      <changelist id="c4f074d5-c432-44af-a44a-a7881349f6d6" name="Default Changelist" comment="" />
+      <created>1557792214340</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557792038991</updated>
+      <updated>1557792214340</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -131,10 +134,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AgeOfMajority.java">
+    <entry file="file://$PROJECT_DIR$/src/EvenOrOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="435">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
         </state>
       </provider>
     </entry>

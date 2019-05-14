@@ -21,5 +21,15 @@ public class EvenOrOdd {
         // int value = 8
         // System.out.println( value%2 );
 
+        System.out.println("Type a number: ");
+        int number = reader.nextInt();
+
+        if (number % 2 == 0) {
+            System.out.println("Number " + number + " is even.");
+        } else {
+            System.out.println("Number " + number + " is odd.");
+        }
+
+
     }
 }
