@@ -7,6 +7,15 @@ public class LowerLimitAndUpperLimit {
         Scanner reader = new Scanner(System.in);
 
         // write your code here
+        System.out.println("First: ");
+        int first = reader.nextInt();
+        System.out.println("Last: ");
+        int last = reader.nextInt();
+
+        while (first <= last) {
+            System.out.println(first);
+            first++;
+        }
 
     }
 }
