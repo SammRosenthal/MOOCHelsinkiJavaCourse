@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9a7d84-53ba-4f26-82a2-03bd9992a388" name="Default Changelist" comment="">
+    <list default="true" id="ecc9a09b-fb80-4c98-a7e4-694be9806b54" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/week2-042.Hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/week2-042.Hangman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-043.SumOfNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-043.SumOfNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Least.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Least.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SumOfNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/Least.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -34,7 +35,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SumOfNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Least.java" />
       </list>
     </option>
   </component>
@@ -54,12 +55,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-043.SumOfNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-043.SumOfNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-044.Least" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-044.Least" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-043.SumOfNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-043.SumOfNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-044.Least" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-044.Least" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -74,11 +75,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-043.SumOfNumbers\src" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,11 +93,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f9a7d84-53ba-4f26-82a2-03bd9992a388" name="Default Changelist" comment="" />
-      <created>1558048335061</created>
+      <changelist id="ecc9a09b-fb80-4c98-a7e4-694be9806b54" name="Default Changelist" comment="" />
+      <created>1558048532767</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558048335061</updated>
+      <updated>1558048532767</updated>
     </task>
     <servers />
   </component>
@@ -138,10 +134,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SumOfNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Least.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
