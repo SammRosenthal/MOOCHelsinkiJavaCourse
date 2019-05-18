@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f16547-8005-4a5a-8cf3-172c9dc7d1b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3-058.RecurringWord.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-057.Words/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-057.Words/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecurringWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecurringWord.java" afterDir="false" />
+    <list default="true" id="4935e241-652e-4889-96a1-81f756d831ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/.idea/runConfigurations/week3_059_WordsInReverseOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-058.RecurringWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-058.RecurringWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RecurringWord.java">
+        <entry file="file://$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="408">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,7 +37,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RecurringWord.java" />
+        <option value="$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java" />
       </list>
     </option>
   </component>
@@ -65,12 +57,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-058.RecurringWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-058.RecurringWord" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-060.WordsInAlphabeticalOrder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-060.WordsInAlphabeticalOrder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-058.RecurringWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-058.RecurringWord" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-060.WordsInAlphabeticalOrder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-060.WordsInAlphabeticalOrder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -81,7 +73,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558209431010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558210364213" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -104,11 +96,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1f16547-8005-4a5a-8cf3-172c9dc7d1b2" name="Default Changelist" comment="" />
-      <created>1558209140844</created>
+      <changelist id="4935e241-652e-4889-96a1-81f756d831ae" name="Default Changelist" comment="" />
+      <created>1558209984537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558209140844</updated>
+      <updated>1558209984537</updated>
     </task>
     <servers />
   </component>
@@ -146,10 +138,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RecurringWord.java">
+    <entry file="file://$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="408">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
