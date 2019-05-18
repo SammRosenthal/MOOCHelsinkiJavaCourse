@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839decdf-e19b-4fbe-91bb-1e094139369d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/libraries/tmc_junit_runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/build_errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/build_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/week3-055.WordInsideWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3-056.ReversingText.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week3-055.WordInsideWord/src/WordInsideWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/src/WordInsideWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReversingText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversingText.java" afterDir="false" />
+    <list default="true" id="978da886-b9bc-40b0-a2f2-1d52a4f2a4ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-056.ReversingText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-056.ReversingText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Words.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ReversingText.java">
+        <entry file="file://$PROJECT_DIR$/src/Words.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -55,7 +35,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ReversingText.java" />
+        <option value="$PROJECT_DIR$/src/Words.java" />
       </list>
     </option>
   </component>
@@ -70,28 +50,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-056.ReversingText" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-056.ReversingText" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-057.Words" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-057.Words" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-056.ReversingText" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week3-056.ReversingText" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-057.Words" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3-057.Words" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558207083577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558209074060" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -114,17 +94,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="839decdf-e19b-4fbe-91bb-1e094139369d" name="Default Changelist" comment="" />
-      <created>1558206670585</created>
+      <changelist id="978da886-b9bc-40b0-a2f2-1d52a4f2a4ce" name="Default Changelist" comment="" />
+      <created>1558207131722</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558206670585</updated>
+      <updated>1558207131722</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -135,8 +114,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -147,19 +126,19 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="TMC Project List" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReversingText.java">
+    <entry file="file://$PROJECT_DIR$/src/Words.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
