@@ -3,7 +3,17 @@ import java.util.Scanner;
 public class Palindromi {
 
     public static boolean palindrome(String text) {
-        // write code here
+
+        String reversed = "";
+
+        for (int i = text.length() - 1; i >= 0; i--) {
+            reversed += text.charAt(i);
+        }
+
+        if (reversed.equals(text)) {
+            return true;
+        }
+
         return false;
     }
 
