@@ -14,11 +14,16 @@ public class LyyraCard {
 
     public void payEconomical() {
         // write code here
-        this.balance -= 2.50;
+        if (this.balance - 2.50 >= 0.00) {
+            this.balance -= 2.50;
+        }
     }
 
     public void payGourmet() {
         // write code here
-        this.balance -= 4.00;
+        if (this.balance - 4.00 >= 0.00) {
+            this.balance -= 4.00;
+        }
+
     }
 }
