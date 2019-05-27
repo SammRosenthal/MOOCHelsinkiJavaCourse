@@ -9,5 +9,40 @@ public class Main {
         // before starting 78.3 remove the extra code and use the skeleton shown
         // in the assignment
 
+        BoundedCounter seconds = new BoundedCounter(59);
+        BoundedCounter minutes = new BoundedCounter(59);
+        BoundedCounter hours = new BoundedCounter(23);
+
+        System.out.print("seconds: ");
+        int s = reader.nextInt(); // read the initial value of seconds from the user
+                System.out.print("minutes: ");
+        int m = reader.nextInt(); // read the initial value of minutes from the user
+                System.out.print("hours: ");
+        int h = reader.nextInt(); // read the initial value of hours from the user
+
+        seconds.setValue(50);
+        minutes.setValue(59);
+        hours.setValue(23);
+
+        int i = 0;
+        while (i < 121) {
+            // prints clock
+            System.out.println( hours + ":" + minutes + ":" + seconds);
+
+            // advance seconds
+            seconds.next();
+
+            // if seconds became zero, advance minutes
+            if (seconds.getValue() == 0) {
+                minutes.next();
+
+                // if minutes become zero, advance hours
+                if (minutes.getValue() == 0) {
+                    hours.next();
+                }
+            }
+
+            i++;
+        }
     }
 }
