@@ -1,4 +1,3 @@
-
 public class HangmanLogic {
 
     private String word;
@@ -27,19 +26,27 @@ public class HangmanLogic {
         // program here the functionality for making a guess
 
         // if the letter has already been guessed, nothing happens
+        if (!guessedLetters.contains(letter)) {
 
-        // it the word does not contains the guessed letter, number of faults increase
+        } else if (this.word.contains(letter)) {
+            this.guessedLetters += letter;
+        } else {
+            this.numberOfFaults++;
+        }
+
+        // it the word does not contains the guessed letter, the number of faults increases
         // the letter is added among the already guessed letters
     }
 
     public String hiddenWord() {
         // program here the functionality for building the hidden word
 
-        // create the hidden word by interating through this.word letter by letter
-        // if the letter in turn is within the guessed words, put it in to the hidden word
-        // if the letter is not among guessed, replace it with _ in the hidden word 
+        // create the hidden word by iterating through this.word letter by letter
+        // if the letter in turn is within the guessed words, put it in the hidden word
+        // if the letter is not among the guessed ones, replace it with _ in the hidden word
 
         // return the hidden word at the end
+
         return "";
     }
 }
