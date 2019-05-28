@@ -12,5 +12,30 @@ public class Main {
 
         // The tests does not work if you do not create the objects in the correct order
 
+        NumberStatistics sum = new NumberStatistics();
+        NumberStatistics even = new NumberStatistics();
+        NumberStatistics odd = new NumberStatistics();
+
+        System.out.println("Type numbers:");
+
+        while (true) {
+            int current = reader.nextInt();
+
+            if (current == -1) {
+                System.out.println("sum: " + sum.sum());
+                System.out.println("sum of even: " + even.sum());
+                System.out.println("sum of odd: " + odd.sum());
+                break;
+            } else if (current % 2 == 0){
+                sum.addNumber(current);
+                even.addNumber(current);
+            } else {
+                odd.addNumber(current);
+                sum.addNumber(current);
+            }
+        }
+
+
+
     }
 }
