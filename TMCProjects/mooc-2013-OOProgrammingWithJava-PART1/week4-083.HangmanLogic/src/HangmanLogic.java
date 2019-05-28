@@ -22,12 +22,13 @@ public class HangmanLogic {
         return 12;
     }
 
+
+    
     public void guessLetter(String letter) {
         // program here the functionality for making a guess
 
         // if the letter has already been guessed, nothing happens
         if (!guessedLetters.contains(letter)) {
-
         } else if (this.word.contains(letter)) {
             this.guessedLetters += letter;
         } else {
