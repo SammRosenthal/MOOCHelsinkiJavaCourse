@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e837ee9a-752f-4782-8417-4d2caa8e4908" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_errors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cglib-nodep-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/easymock-3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/edu-test-utils-0.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javassist-3.18.2-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/junit-4.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/objenesis-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/powermock-easymock-1.5.5-full.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/testrunner/tmc-junit-runner.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ProductTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4-073.Product.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="e837ee9a-752f-4782-8417-4d2caa8e4908" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +42,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -114,7 +82,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -136,7 +104,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="TMC Project List" order="4" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="TMC Project List" order="4" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
