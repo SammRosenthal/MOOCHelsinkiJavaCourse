@@ -2,342 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20002896-cce9-4623-8703-dd03b61b14f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/libraries/tmc_junit_runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/src/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/test/AccountsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/test/MockInOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.1.YourFirstAccount/week4-072.1.YourFirstAccount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/src/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/test/MockInOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.2.YourFirstMoneyTransfer/test/TilejaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/src/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/test/A_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/test/B_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-072.3.MoneyTransfers/test/MockInOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-073.Product/test/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-074.Multiplier/test/MultiplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/src/DecreasingCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-075.DecreasingCounter/test/DecreasingCounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-076.Menu/test/MenuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/Hangman.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-077.LyyraCard/test/LyyraCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-078.ClockUsingCounter/test/CounterAndClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/Hangman.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/src/NumberStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/test/NumberStatistics1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-079.NumberStatistics/test/NumberStatistics2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/Hangman.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/src/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-080.Dice/test/DiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/nblibraries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/src/PasswordRandomizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/src/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-081.PasswordRandomizer/test/PasswordRandomizerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/cglib-nodep-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/easymock-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/javassist-3.18.2-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/nblibraries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/objenesis-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/powermock-classloading-base-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/powermock-classloading-objenesis-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/powermock-easymock-1.5.5-full.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/powermock-module-junit4-rule-1.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/src/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/src/LotteryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-082.Lottery/test/LotteryNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/lib/edu-test-utils-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/lib/testrunner/tmc-junit-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/HangmanFigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/HangmanLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/HangmanUserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/HirsipuuKeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/src/TestProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4-083.HangmanLogic/test/HangmanLogicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/mooc-2013-OOProgrammingWithJava-PART1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mooc-2013-OOProgrammingWithJava-PART1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CombiningArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombiningArrayLists.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -351,12 +15,12 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CombiningArrayLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="493">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -384,6 +48,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -400,8 +66,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,19 +101,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -457,22 +118,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="TMC Project List" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TMC Test Results" order="9" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="TMC Project List" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CombiningArrayLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="493">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
         </state>
       </provider>
     </entry>
