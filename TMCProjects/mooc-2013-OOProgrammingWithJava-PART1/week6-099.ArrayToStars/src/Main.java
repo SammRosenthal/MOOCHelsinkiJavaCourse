@@ -8,6 +8,13 @@ public class Main {
     }
 
     public static void printArrayAsStars(int[] array) {
-        // write code here
+
+        for (int i = 0; i < array.length; i++) {
+            String stars = "";
+            for (int j = 0; j < array[i]; j++){
+                stars += "*";
+            }
+            System.out.println(stars);
+        }
     }
 }
