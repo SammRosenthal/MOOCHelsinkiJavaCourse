@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d769c936-6127-4b27-9422-a118461f8088" name="Default Changelist" comment="">
+    <list default="true" id="f89e7177-1d5f-4cf4-9697-739fda6a0493" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/week6_097_ElegantPrinting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6-096.SumOfArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6-096.SumOfArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,12 +18,12 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="272">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -49,18 +52,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week6-096.SumOfArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week6-096.SumOfArray" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week6-097.ElegantPrinting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week6-097.ElegantPrinting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week6-096.SumOfArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week6-096.SumOfArray" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Sam\MOOCHelsinkiJavaCourse\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week6-097.ElegantPrinting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week6-097.ElegantPrinting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -70,6 +73,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560132323968" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -92,11 +96,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d769c936-6127-4b27-9422-a118461f8088" name="Default Changelist" comment="" />
-      <created>1559939632112</created>
+      <changelist id="f89e7177-1d5f-4cf4-9697-739fda6a0493" name="Default Changelist" comment="" />
+      <created>1560131910876</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559939632112</updated>
+      <updated>1560131910876</updated>
     </task>
     <servers />
   </component>
@@ -104,16 +108,17 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -136,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>

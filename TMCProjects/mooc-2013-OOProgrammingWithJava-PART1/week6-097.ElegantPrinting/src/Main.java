@@ -8,6 +8,16 @@ public class Main {
     }
 
     public static void printElegantly(int[] array) {
-        // Write code here
+       String answer = "";
+
+       for (int i = 0; i < array.length; i++) {
+           if (i + 1 < array.length) {
+               answer += array[i] + ", ";
+           } else {
+               answer += array[i];
+           }
+       }
+
+        System.out.println(answer);
     }
 }
