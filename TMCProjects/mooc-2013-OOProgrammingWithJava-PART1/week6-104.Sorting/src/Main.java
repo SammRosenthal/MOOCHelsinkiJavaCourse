@@ -1,16 +1,7 @@
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
-        int[] values = {3, 2, 5, 4, 8};
-
-        System.out.println( Arrays.toString(values) );
-
-        swap(values, 1, 0);
-        System.out.println( Arrays.toString(values) );
-
-        swap(values, 0, 3);
-        System.out.println( Arrays.toString(values) );
+        int[] values = {8, 3, 7, 9, 1, 2, 4};
+        sort(values);
     }
 
     public static int smallest(int[] array){
@@ -64,6 +55,16 @@ public class Main {
 
     }
 
-    
+    public static void sort (int[] array) {
+        int index = 0;
+
+        while (index < array.length) {
+            int indexOfSmallest = indexOfTheSmallestStartingFrom(array, index);
+            swap(array, index, indexOfSmallest);
+            index++;
+        }
+
+
+    }
 
 }
