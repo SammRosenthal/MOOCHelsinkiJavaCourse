@@ -14,19 +14,27 @@ public class Main {
 
 
         while (true) {
-            if (scanner.nextLine().equals("Add")) {
+            String command = scanner.nextLine();
+            if (command.equals("Add")) {
                 System.out.println("Name: ");
                 String name = scanner.nextLine();
                 System.out.println("Latin Name: ");
                 String latinName = scanner.nextLine();
                 birdLibrary.add(new Bird(name, latinName));
-            } else if (scanner.next().equals("Observation")) {
-                
+            } else if (command.equals("Observation")) {
+                System.out.println("What was observed:? ");
+                String observed = scanner.nextLine();
+                birdLibrary.viewed(observed);
+            } else if (command.equals("Statistics")) {
+                birdLibrary.statistics();
+            } else if (command.equals("Show")) {
+                System.out.println("What?");
+                String show = scanner.nextLine();
+                birdLibrary.show(show);
+            } else if (command.equals("Quit")) {
+                break;
             }
-
-
         }
-            
     }
 
 }

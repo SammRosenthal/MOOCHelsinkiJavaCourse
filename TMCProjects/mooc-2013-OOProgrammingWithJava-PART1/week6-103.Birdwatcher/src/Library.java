@@ -25,4 +25,17 @@ public class Library {
             }
         }
     }
+
+    public void viewed (String name) {
+        int birdsFound = 0;
+        for (Bird i : birdList) {
+            if (i.getName().contains(name)) {
+                i.observation();
+            }
+        }
+
+        if (birdsFound == 0) {
+            System.out.println("Is not a bird!");
+        }
+    }
 }
